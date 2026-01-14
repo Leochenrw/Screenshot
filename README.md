@@ -45,8 +45,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/ScreenshotsNotifier.git
-cd ScreenshotsNotifier
+git clone https://github.com/Leochenrw/screenshot.git
+cd screenshot
 
 # 运行程序
 双击 启动程序.bat
@@ -175,7 +175,7 @@ screenshotsPath = @"D:\MyScreenshots";  // 自定义路径
 
 ## 📧 联系方式
 
-- 提交 [Issue](https://github.com/yourusername/ScreenshotsNotifier/issues)
+- 提交 [Issue](https://github.com/Leochenrw/screenshot/issues)
 - Pull Request 欢迎提交
 
 ---
